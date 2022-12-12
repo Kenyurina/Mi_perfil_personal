@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Kenyurina/Mi_perfil_personal#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-myconnection": "^1.0.4",
     "favicon": "0.0.2",
     "process": "^0.11.10",
